@@ -1,0 +1,5 @@
+module RubyWrapper {
+  header "CWrapper/Wrapper.h"
+  link "RubyWrapper"
+  export *
+}
